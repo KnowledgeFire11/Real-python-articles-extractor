@@ -3,6 +3,7 @@ from bs4 import BeautifulSoup
 import time
 import concurrent.futures
 
+# Start of program
 print("Welcome the program!")
 print("Please enter the name of the topic you would want to browse through: ")
 print("If you want the topics enter 'List'")
